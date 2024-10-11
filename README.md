@@ -2,10 +2,10 @@
 
 Wereld gecreeërd
 
-Gebouwen zijn toegevoegd
+Gebouwen toegevoegd
 
-lantaarnpalen zijn tegevoegd
+lantaarnpalen tegevoegd
 
 Groot parkeergarage toevegoed
 
-Wegen zijn ook toegevoegd
+Wegen toegevoegd
